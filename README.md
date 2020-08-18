@@ -10,6 +10,17 @@ Các file .py :
 - Basic: So sánh hai ảnh với nhau
 - Attendance: So sánh hình ảnh người (một hoặc vài người) xuất hiện trong webcam với những người có sẵn trong thư mục 'Resources/Attendance'. Press 's' để lưu lại hình ảnh webcam lúc đó.
 
+![result](https://user-images.githubusercontent.com/49630112/90501580-c70b0480-e176-11ea-872b-c46138ce6633.jpg)
+![result](https://user-images.githubusercontent.com/49630112/90501900-3f71c580-e177-11ea-95fe-097394a879d6.jpg)
+![papa](https://user-images.githubusercontent.com/49630112/90502412-f9693180-e177-11ea-8c1e-a13aaddcfde9.jpg)
+
+Kết quả điểm danh bằng khuôn mặt :
+
+PAPAYA,15:56:25
+
+KAIZ,15:56:34
+
+BRAND,15:57:34
 
 TLTK:
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
